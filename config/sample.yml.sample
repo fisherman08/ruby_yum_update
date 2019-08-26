@@ -1,0 +1,7 @@
+servers:
+  - host: myhost
+    port: 22
+    user: myname
+    password: mypassword
+    sudo_password: mysudopassword
+    key: ~/.ssh/test.pem
